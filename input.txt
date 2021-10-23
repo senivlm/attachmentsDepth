@@ -1,0 +1,4 @@
+Hello ( world ) it is ( example ).
+Це ( тестовий приклад (( для завдання )( на )) рядки
+Sigma ) p.( r).ac(t 
+(Correct((a)) input)).
