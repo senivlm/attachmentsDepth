@@ -8,7 +8,7 @@ using System.IO;
 namespace AttechmentsDepth
 {
     class AttechmentsDepth
-    {
+    {некоректна назва. Називайте колекції в множині
         public List<string> Sentence { get; }
 
         public AttechmentsDepth()
